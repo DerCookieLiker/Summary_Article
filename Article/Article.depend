@@ -31,3 +31,35 @@
 	"Date.h"
 	<string>
 
+1623941970 source:d:\code_blocks\workspace\c++\string\summary_article\article\article.cpp
+	"Article.h"
+	"stdio.h"
+	"string.h"
+	<bits/stdc++.h>
+
+1623941918 d:\code_blocks\workspace\c++\string\summary_article\article\article.h
+	"String.h"
+	"Date.h"
+	<string>
+
+1623939565 d:\code_blocks\workspace\c++\string\summary_article\article\string.h
+
+1623939565 d:\code_blocks\workspace\c++\string\summary_article\article\date.h
+	<string>
+
+1623939565 source:d:\code_blocks\workspace\c++\string\summary_article\article\date.cpp
+	"Date.h"
+	<iostream>
+	"stdio.h"
+
+1623941657 source:d:\code_blocks\workspace\c++\string\summary_article\article\main.cpp
+	<iostream>
+	"String.h"
+	"Date.h"
+	"Article.h"
+
+1623940894 source:d:\code_blocks\workspace\c++\string\summary_article\article\string.cpp
+	"String.h"
+	<iostream>
+	<cstring>
+
