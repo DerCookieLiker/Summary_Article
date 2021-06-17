@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1623917984 source:c:\users\user\documents\github\summary_article\article\string.cpp
+	"String.h"
+	<iostream>
+	<cstring>
+
+1622524522 c:\users\user\documents\github\summary_article\article\string.h
+
+1623923140 source:c:\users\user\documents\github\summary_article\article\date.cpp
+	"Date.h"
+	<iostream>
+	"stdio.h"
+
+1623923119 c:\users\user\documents\github\summary_article\article\date.h
+	<string>
+
+1623924904 source:c:\users\user\documents\github\summary_article\article\main.cpp
+	<iostream>
+	"String.h"
+	"Date.h"
+	"Article.h"
+
+1623924883 source:c:\users\user\documents\github\summary_article\article\article.cpp
+	"Article.h"
+	"stdio.h"
+	"string.h"
+	<bits/stdc++.h>
+
+1623924599 c:\users\user\documents\github\summary_article\article\article.h
+	"String.h"
+	"Date.h"
+	<string>
+
